@@ -1,0 +1,22 @@
+{
+  "name": "paintball-vr-iot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Centro de control web para la simulacion interactiva de paintball en entornos controlados (React + Vite + Firebase).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^11.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

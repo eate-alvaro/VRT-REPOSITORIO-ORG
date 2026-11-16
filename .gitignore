@@ -1,0 +1,20 @@
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# Entorno local
+.env
+.env.local
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+node_modules
+dist
+.env

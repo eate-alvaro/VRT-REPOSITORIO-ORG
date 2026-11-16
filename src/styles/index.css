@@ -1,0 +1,9 @@
+/* ==========================================================================
+   index.css - Punto de entrada de estilos.
+   El orden de carga es: tokens, reset, layout y componentes.
+   ========================================================================== */
+
+@import "./tokens.css";
+@import "./reset.css";
+@import "./layout.css";
+@import "./components.css";
